@@ -1,0 +1,6 @@
+.idea
+venv
+
+prod_settings.py
+
+media
